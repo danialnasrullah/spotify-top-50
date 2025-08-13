@@ -1,0 +1,4 @@
+spotipy
+customtkinter
+python-dotenv
+pillow
